@@ -1,0 +1,3 @@
+Natural Language Processing (NLP) enables computers to understand and process human language.
+It involves tasks such as tokenization, stop-word removal, lemmatization, and POS tagging.
+NLP has applications in machine translation, sentiment analysis, chatbots, and more.
